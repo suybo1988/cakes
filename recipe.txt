@@ -1,4 +1,3 @@
 Chocolate cake recipe 
 
-Edited from develop branch
-
+1. Chocolate
